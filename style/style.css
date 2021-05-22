@@ -1,0 +1,183 @@
+.logo-size{
+    width: 40px;
+    height: 40px;
+}
+.logo-sizes{
+    width: 150px;
+    height: 150px;
+}
+.img-size{
+    width: 100%;
+    height: 80%;
+    z-index: -1;
+    /* opacity: 0.5; */
+}
+.head-font{
+    font-family: pacifico;
+
+}
+.desc-size1{
+    font-size: 50px;
+    color:  rgb(14, 87, 109);
+    z-index: 100;
+}
+.desc-size2{
+    font-size: 40px;
+    color: rgb(14, 87, 109);
+}
+.desc-place1{
+    position: absolute;
+    top: 25%;
+    left: 7%;
+}
+.desc-place2{
+    position: absolute;
+    top: 50%;
+    left: 7%;
+}
+.desc-place3{
+    position: absolute;
+    top:62%;
+    left: 7%;
+    color: rgb(14, 87, 109);
+    width: 750px;
+}
+.get-started{
+    position: absolute;
+    top: 74%;
+    left: 7%;
+    width: 17%;
+    height: 12%;
+    border-radius: 20px;
+    background-color: orange;
+    border: none;
+    
+    padding: 0.4%;
+    color:rgb(255,255,255);
+}
+.font{
+    font-size: 25px;
+}
+
+.get-started:hover{
+    width: 18%;
+    height: 14%;
+    background-color: rgb(42, 168, 69);
+    transition: 1.5s;
+}
+.font-size{
+    font-size: 180%;
+}
+
+.our-special{
+    background-color: black;
+    height: auto;
+    text-align: center;
+}
+.special-heading{
+    padding-top:2%;
+    text-align: center;
+    color: yellow;
+}
+.bor{
+    margin-top: 10%;
+    margin-bottom: 5%;
+    margin-left: 0%;
+    margin-right: 0%;
+    
+    border: 10px solid white;
+    width: 350px;
+    height: 500px;
+    
+    text-align: center;
+}
+
+.desc-imgsize{
+    width:330px;
+}
+.desc{
+    color:white;
+    padding: 2%;
+}
+.read-more{
+    border-radius: 20px;
+    width: 200px;
+    height:40px;
+    background-color: yellow;
+    border: none;
+    text-align: center;
+}
+.bor:hover{
+    transform: scale(1.1);
+    transition: 0.1s;
+}  
+.read-more:hover{
+    transform: scale(1.1);
+}
+.about{
+    margin-top: 2%;
+    text-align: center;
+    font-size: 50px;
+}
+
+.about-imgdesc{
+    width: 100%;
+    height: 100%;
+    margin: 10%;
+}
+
+.aboutus{
+    margin: 10%;
+    text-align: center;
+}
+.dishes{
+    margin: 10%;
+    text-align:center;
+}
+
+.containers{
+    margin: 5%;
+    margin-left:12%;
+    margin-bottom: 2%;
+    text-align:center;
+}
+
+.dish-size:hover{
+    transform: scale(1.1);  
+}
+.dish-size{
+    margin: 5%;
+}
+.contactus{
+    border-radius: 22px;
+    border:1px solid black;
+    width: 42%;
+    height: auto;
+    padding-top:2%;
+    padding-left:1%;
+    margin: auto;
+    margin-bottom:0px;
+    background-color: white;
+}
+.contact{
+    padding: 2%;
+    background: rgb(47, 69, 87);
+    text-align: center;
+}
+
+.inputs{
+    border: 3px solid black;
+    border-radius: 8px;
+    width: 97%;
+}
+
+.end{
+    margin-top:0px;
+    background: black;
+    padding: 1%;
+    padding-top: 2%;
+}
+
+.copyright{
+    text-align: center;
+}
